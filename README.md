@@ -10,7 +10,7 @@ Build options:
 Usage:
 1) copy or clone repository
 2) npm install
-3) install --global rollup
+3) npm install --global rollup
 4) rollup -c
 
 source: \src\scripts\main.js,
