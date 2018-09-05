@@ -7,5 +7,11 @@ Build options:
 * PLUGINS TO HANDLE NON-ES MODULES
 * COMPRESS AND MINIFY WITH UGLIFYJS
 
-Build with command:
-rollup -c
+Usage:
+1) copy or clone repository
+2) npm install
+3) install --global rollup
+4) rollup -c
+
+source: \src\scripts\main.js,
+output: \build\js\main.min.js
